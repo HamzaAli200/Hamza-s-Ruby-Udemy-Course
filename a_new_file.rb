@@ -2,3 +2,5 @@
 
 puts  "Hello Hamza"
 puts " You are doing greate job with ruby"
+
+pults "jolek tes"
